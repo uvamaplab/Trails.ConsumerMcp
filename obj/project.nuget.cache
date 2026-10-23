@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "LsZAwVJraEE=",
+  "success": true,
+  "projectFilePath": "/Users/ibrahimanjum/Desktop/Trails.ConsumerMcp/Trails.ConsumerMcp.csproj",
+  "expectedPackageFiles": [
+    "/Users/ibrahimanjum/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/10.0.13/microsoft.aspnetcore.authentication.jwtbearer.10.0.13.nupkg.sha512",
+    "/Users/ibrahimanjum/.nuget/packages/microsoft.bcl.cryptography/10.0.2/microsoft.bcl.cryptography.10.0.2.nupkg.sha512",
+    "/Users/ibrahimanjum/.nuget/packages/microsoft.extensions.ai.abstractions/10.11.0/microsoft.extensions.ai.abstractions.10.11.0.nupkg.sha512",
+    "/Users/ibrahimanjum/.nuget/packages/microsoft.identitymodel.abstractions/8.19.2/microsoft.identitymodel.abstractions.8.19.2.nupkg.sha512",
+    "/Users/ibrahimanjum/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.19.2/microsoft.identitymodel.jsonwebtokens.8.19.2.nupkg.sha512",
+    "/Users/ibrahimanjum/.nuget/packages/microsoft.identitymodel.logging/8.19.2/microsoft.identitymodel.logging.8.19.2.nupkg.sha512",
+    "/Users/ibrahimanjum/.nuget/packages/microsoft.identitymodel.protocols/8.19.2/microsoft.identitymodel.protocols.8.19.2.nupkg.sha512",
+    "/Users/ibrahimanjum/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/8.19.2/microsoft.identitymodel.protocols.openidconnect.8.19.2.nupkg.sha512",
+    "/Users/ibrahimanjum/.nuget/packages/microsoft.identitymodel.tokens/8.19.2/microsoft.identitymodel.tokens.8.19.2.nupkg.sha512",
+    "/Users/ibrahimanjum/.nuget/packages/modelcontextprotocol/2.3.0/modelcontextprotocol.2.3.0.nupkg.sha512",
+    "/Users/ibrahimanjum/.nuget/packages/modelcontextprotocol.aspnetcore/2.3.0/modelcontextprotocol.aspnetcore.2.3.0.nupkg.sha512",
+    "/Users/ibrahimanjum/.nuget/packages/modelcontextprotocol.core/2.3.0/modelcontextprotocol.core.2.3.0.nupkg.sha512",
+    "/Users/ibrahimanjum/.nuget/packages/system.identitymodel.tokens.jwt/8.19.2/system.identitymodel.tokens.jwt.8.19.2.nupkg.sha512"
+  ],
+  "logs": []
+}
